@@ -122,8 +122,8 @@ class FlipKart:
 if __name__ == "__main__":
 
     # credentials
-    username = '9404962673'
-    password = 'reset123'
+    username = '94********'
+    password = 'qwertyuiop'
 
     user_info_list = list()
 
